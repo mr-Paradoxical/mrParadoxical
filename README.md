@@ -11,8 +11,6 @@
 - 📫 Reach me **in your thoughts**
 <br />
 
-<img align="right" alt="GIF" src="giphy.webp" width="320" height="320" />
-
 <br />
 
 
