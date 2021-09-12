@@ -1,6 +1,6 @@
 <h1>Bye there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h1 align="center"> I'm Knack</h1>
-<h3 align="center">A non-passionate developer from India</h3>
+<h3 align="center">I feel something so right, Doing the wrong thing..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrParadoxical&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-kishore-gupta" /> </p>
 
